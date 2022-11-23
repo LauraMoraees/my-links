@@ -10,7 +10,7 @@ body {
 
 img {
   border-radius: 20px; 
-  width: 260px;
+  width: 320px;
   height: 320px;
 }
 
@@ -33,12 +33,12 @@ li {
 }
 
 a {
-    background-color: limegreen;
+    background-color: rgba(206, 147, 206, 0.596);
     color: white;
     padding: 15px;
     text-decoration: none;
     display: block;
-    width: 230px;
+    width: 320px;
     height: 18px;
     border-radius: 5px;
 }
@@ -47,7 +47,7 @@ footer {
 }
 
 .container {
-    width: 260px;
+    width: 320px;
     text-align: center;
     margin-top: 41px;
     margin-left: auto;
