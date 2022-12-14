@@ -10,7 +10,7 @@ body {
 
 img {
   border-radius: 320px; 
-  width: 320px;
+  width: 314px;
   height: 320px;
   border: 3px solid darkmagenta;
 }
@@ -41,7 +41,7 @@ a {
     text-decoration: none;
     display: block;
     width: 290px;
-    height: 18px;
+    height: 18px; 
     border-radius: 5px;
 }
 
